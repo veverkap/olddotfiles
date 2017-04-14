@@ -1,0 +1,11 @@
+syntax: glob
+
+*~
+.DS_Store
+staging.sql.zip
+db_backup
+trainings
+rsa-private-key.pem
+rshea
+scallan
+2123

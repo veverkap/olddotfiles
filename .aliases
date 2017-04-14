@@ -1,0 +1,4 @@
+alias heartbeat="netstat -nr"
+alias packerprod="packer build -var-file=/Users/patrickveverka/Code/wombat/devops/packer/templates/variables/production.json"
+alias packerstage="packer build -var-file=/Users/patrickveverka/Code/wombat/devops/packer/templates/variables/staging.json"
+alias packereu="packer build -var-file=/Users/patrickveverka/Code/wombat/devops/packer/templates/variables/eu.json"

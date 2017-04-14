@@ -1,0 +1,14 @@
+*~
+.DS_Store
+packer/build
+pveverka_authorized_keys
+variables.json
+threatsim.key
+threatsim.key.pub
+staging.sql.zip
+db_backup
+trainings
+rsa-private-key.pem
+rshea
+scallan
+2123
