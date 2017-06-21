@@ -65,3 +65,8 @@ benchttp
 license
 .Trash
 analyzer-dev.pem
+.erlang-history
+.serverless/cache
+.serverlessrc
+.terraform.d
+.yarnrc
